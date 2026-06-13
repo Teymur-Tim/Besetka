@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BisetkaApplication {
+public class BesetkaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BisetkaApplication.class, args);
+        SpringApplication.run(BesetkaApplication.class, args);
     }
 
 }
